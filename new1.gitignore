@@ -1,0 +1,7 @@
+#Ignore sensitive files
+.env
+config.php
+
+#Ignore system files
+vendor/
+*.log
